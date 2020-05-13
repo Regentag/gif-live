@@ -22,8 +22,6 @@ curl http://localhost:1323/[gifname]
  * reimu
  * cat
  
- 
-  ✔ 팁: GPU 가속이 지원되는 터미널 에뮬레이터인 [alacritty](https://github.com/alacritty/alacritty)를 사용하시면 curl 애니메이션이 훨씬 매끄럽게 시현됩니다.
 
 # 온라인 데모
 Go 언어 개발환경이 없거나, 실행 결과만 보고 싶다면 다음 주소로 확인하세요. Heroku에서 실행 중이므로 끊김이 발생하거나 속도가 느릴 수 있습니다.
