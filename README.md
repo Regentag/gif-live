@@ -6,7 +6,7 @@ Inspired by [hugomd/ascii-live](https://github.com/hugomd/ascii-live), but Echo 
 
 ![Demo](demo.webp)
 
-* If the WebP demo video doesn't play, check out the following link (GIF): [https://imgur.com/hMs9WNL] (https://imgur.com/hMs9WNL)
+* If the WebP demo video doesn't play, check out the following link (GIF): [https://imgur.com/hMs9WNL](https://imgur.com/hMs9WNL)
 
 # Running locally
 To run the server locally on port `:1323`, run:
