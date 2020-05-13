@@ -3,6 +3,7 @@ GIF 파일을 터미널에서 [curl]() 애니메이션으로 재생합니다.
 [hugomd/ascii-live](https://github.com/hugomd/ascii-live)을 참고하여 개발하였으나, 웹 프레임워크로 Echo를 사용합니다.
 
 ![데모 영상](demo.webp)
+  ※ WebP 데모 영상이 재생되지 않으면 다음 링크(GIF)로 확인하세요: [https://imgur.com/hMs9WNL](https://imgur.com/hMs9WNL)
 
 # 로컬에서 실행
 로컬에서 `:1323` 포트로 서버를 실행하려면 다음과 같이 하십시오:
